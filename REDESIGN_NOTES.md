@@ -1,7 +1,7 @@
 # Portfolio redesign notes
 
 ## Direction
-The site has been repositioned around **Law · Technology · Strategy** rather than a generic developer portfolio. The design is intentionally editorial and professional: warm neutral background, restrained teal accent, serif display typography, simpler navigation and no particle effects.
+The site has been repositioned around **Law · Technology · Emerging Issues** rather than a generic developer portfolio. The design is intentionally editorial and professional: warm neutral background, restrained teal accent, serif display typography, simpler navigation and no particle effects.
 
 ## Main changes
 - Rebuilt the home hero and navigation.

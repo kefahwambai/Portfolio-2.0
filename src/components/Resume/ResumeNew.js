@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import pdf from "../../Assets/Kefah_CV.pdf";
+import pdf from "../../Assets/KEFAH_WAMBAI_CV_2026_UPDATED.pdf";
 import { AiOutlineDownload, AiOutlineArrowLeft } from "react-icons/ai";
 import { Link } from "react-router-dom";
 
