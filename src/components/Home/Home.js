@@ -13,9 +13,9 @@ function Home() {
         <Container>
           <Row className="align-items-center hero-row">
             <Col lg={7} className="hero-copy">
-              <div className="eyebrow">LAW · TECHNOLOGY · STRATEGY</div>
+              <div className="eyebrow">LAW · TECHNOLOGY · EMERGING ISSUES</div>
               <h1>KEFAH<br /><span>WAMBAI</span></h1>
-              <p className="hero-role">Legal Professional &amp; Software Engineer</p>
+              <p className="hero-role">Legal Advisor &amp; Software Engineer</p>
               <p className="hero-lede">
                 I work at the intersection of legal practice, technology and practical problem-solving — translating complex questions into clear, useful outcomes.
               </p>
@@ -74,8 +74,8 @@ function Home() {
           </div>
           <div className="insight-preview-grid">
             <article><div className="article-meta">EVIDENCE</div><h3><Link to="/insights/whatsapp-messages-evidence-kenyan-courts">Can WhatsApp Messages Be Used as Evidence in Kenyan Courts?</Link></h3><p>A practical look at preservation, authenticity and the evidential questions surrounding chat records.</p></article>
-            <article><div className="article-meta">LAW &amp; TECHNOLOGY</div><h3><Link to="/insights/screenshots-section-106b-evidence-act">Screenshots in Court: What Section 106B Requires</Link></h3><p>Why a screenshot is only part of the story when electronic records are presented in litigation.</p></article>
-            <article><div className="article-meta">CIVIL PRACTICE</div><h3><Link to="/insights/judgment-debtor-refuses-to-pay-kenya">You Won Your Case — but the Defendant Won’t Pay</Link></h3><p>An accessible introduction to the execution stage after judgment.</p></article>
+            {/* <article><div className="article-meta">LAW &amp; TECHNOLOGY</div><h3><Link to="/insights/screenshots-section-106b-evidence-act">Screenshots in Court: What Section 106B Requires</Link></h3><p>Why a screenshot is only part of the story when electronic records are presented in litigation.</p></article>
+            <article><div className="article-meta">CIVIL PRACTICE</div><h3><Link to="/insights/judgment-debtor-refuses-to-pay-kenya">You Won Your Case — but the Defendant Won’t Pay</Link></h3><p>An accessible introduction to the execution stage after judgment.</p></article> */}
           </div>
         </Container>
       </section>

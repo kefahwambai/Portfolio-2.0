@@ -23,7 +23,7 @@ function About() {
             </Col>
             <Col lg={7}>
               <p className="large-copy">
-                I am a legal professional with a parallel background in software engineering. Both disciplines have shaped the way I work: carefully, analytically and with a bias toward solutions that are useful beyond the page.
+                I am a lawyer with a parallel background in software engineering. Both disciplines have shaped the way I work: carefully, analytically and with a bias toward solutions that are useful beyond the page.
               </p>
               <p className="body-copy">
                 In legal work, I am interested in the point where research, procedure, drafting and strategy meet. In technology, I enjoy turning messy problems into intuitive digital products. Together, those perspectives make me especially curious about the way law is changing alongside technology, data and new forms of business.

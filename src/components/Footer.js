@@ -10,7 +10,7 @@ function Footer() {
         <Row className="g-4 align-items-end">
           <Col md={6}>
             <div className="footer-brand">KEFAH WAMBAI</div>
-            <p>Law · Technology · Strategy</p>
+            <p>Law · Technology · Emerging Issues</p>
           </Col>
           <Col md={6} className="footer-links text-md-end">
             <Link to="/about">About</Link><Link to="/project">Work</Link><Link to="/insights">Insights</Link><a href="mailto:kefahngwei@gmail.com">Email</a>

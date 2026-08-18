@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-const SITE_URL = "https://kefahwambai.com";
+const SITE_URL = "https://www.kefahwambai.com";
 const DEFAULT_IMAGE = `${SITE_URL}/og-insights.png`;
 
 function setMeta(selector, attribute, value) {
@@ -15,8 +15,8 @@ function setMeta(selector, attribute, value) {
 }
 
 function SEO({
-  title = "Kefah Wambai | Law, Technology & Strategy",
-  description = "Kefah Wambai writes about Kenyan legal practice, technology, digital evidence and emerging issues.",
+  title = "Kefah Wambai | Law, Technology & Emerging Issues",
+  description = "Kefah Wambai writes about Kenyan legal practice, technology and emerging issues.",
   path = "/",
   type = "website",
   image = DEFAULT_IMAGE,
